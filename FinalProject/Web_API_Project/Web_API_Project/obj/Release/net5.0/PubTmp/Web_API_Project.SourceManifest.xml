@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\ASP_dotnet_core\MiniProject\Web_API_Project\Web_API_Project\obj\Release\net5.0\PubTmp\Out\" />
+</sitemanifest>
